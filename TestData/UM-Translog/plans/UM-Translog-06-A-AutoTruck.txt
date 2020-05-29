@@ -1,0 +1,1 @@
+(collect_fees MaseratiMC12)(lower_ramp Pferd)(load_cars MaseratiMC12 Pferd O27)(raise_ramp Pferd)(move_vehicle_no_traincar Pferd O27 James_Franck_Ring O28)(lower_ramp Pferd)(unload_cars MaseratiMC12 Pferd O28)(raise_ramp Pferd)(deliver_p MaseratiMC12)

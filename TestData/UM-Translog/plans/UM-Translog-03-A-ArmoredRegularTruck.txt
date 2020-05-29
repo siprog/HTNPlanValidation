@@ -1,0 +1,1 @@
+(collect_fees Gemaelde)(collect_insurance Gemaelde)(post_guard_outside Pferd)(open_door Pferd)(load_package Gemaelde Pferd O27)(close_door Pferd)(post_guard_inside Pferd)(move_vehicle_no_traincar Pferd O27 James_Franck_Ring O28)(post_guard_outside Pferd)(open_door Pferd)(unload_package Gemaelde Pferd O28)(close_door Pferd)(remove_guard Pferd)(deliver_v Gemaelde)

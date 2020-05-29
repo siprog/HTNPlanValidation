@@ -1,0 +1,1 @@
+(collect_fees Holz)(pick_up_package_ground Holz CraneO27 O27)(put_down_package_vehicle Holz CraneO27 Pferd O27)(move_vehicle_no_traincar Pferd O27 James_Franck_Ring O28)(pick_up_package_vehicle Holz CraneO28 Pferd O28)(put_down_package_ground Holz CraneO28 O28)(deliver_p Holz)

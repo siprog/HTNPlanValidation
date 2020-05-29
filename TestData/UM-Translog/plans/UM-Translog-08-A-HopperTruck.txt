@@ -1,0 +1,1 @@
+(collect_fees SandPackage)(connect_chute Pferd)(fill_hopper SandPackage Pferd O27)(disconnect_chute Pferd)(move_vehicle_no_traincar Pferd O27 James_Franck_Ring O28)(connect_chute Pferd)(empty_hopper SandPackage Pferd O28)(disconnect_chute Pferd)(deliver_p SandPackage)

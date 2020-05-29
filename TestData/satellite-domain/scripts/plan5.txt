@@ -1,0 +1,1 @@
+(switch_on instrument0 satellite0)(turn_to satellite0 GroundStation0 Phenomenon6)(calibrate satellite0 instrument0 GroundStation0)(turn_to satellite0 Phenomenon4 GroundStation0)(take_image satellite0 Phenomenon4 instrument0 thermograph)(turn_to satellite0 GroundStation1 Phenomenon4)(turn_to satellite1 GroundStation0 Phenomenon7)

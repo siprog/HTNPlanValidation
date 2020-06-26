@@ -1,0 +1,1 @@
+(do_saw_medium b0 p1 walnut smooth s6 s5 s4)(do_grind p0 verysmooth natural glazed untreated)(do_spray_varnish p1 spray_varnisher0 natural smooth)(do_spray_varnish p0 spray_varnisher0 natural verysmooth)

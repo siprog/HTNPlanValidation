@@ -1,0 +1,1 @@
+(do_plane p2 verysmooth natural varnished)(do_spray_varnish p2 spray_varnisher0 red smooth)(do_plane p0 smooth red varnished)

@@ -1,0 +1,1 @@
+(do_plane p0 verysmooth natural glazed)(do_saw_small b0 p1 walnut smooth s6 s5)(do_glaze p1 glazer0 blue)(do_spray_varnish p0 spray_varnisher0 blue smooth)(do_plane p2 rough blue glazed)(do_glaze p2 glazer0 blue)

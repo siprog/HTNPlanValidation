@@ -1,0 +1,1 @@
+(do_saw_medium b0 p1 pine rough s3 s2 s1)(do_glaze p1 glazer0 red)(do_plane p2 verysmooth natural varnished)(do_plane p1 rough red glazed)(do_plane p0 smooth red varnished)(do_glaze p2 glazer0 red)

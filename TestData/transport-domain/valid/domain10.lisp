@@ -15,6 +15,16 @@
   (:task get-to :parameters (?v - vehicle ?l - location))
   (:task load :parameters (?v - vehicle ?l - location ?p - package))
   (:task unload :parameters (?v - vehicle ?l - location ?p - package))
+  
+  (:method m-root
+    :parameters (?p - package ?p2 - package ?l - location ?l2 - location ?l3 - location ?l4 - location ?v - vehicle)
+    :task (root ?p ?p2 ?l ?l2)
+    :subtasks (and
+      (deliver ?p ?l)
+      (deliver ?p2 ?l2)
+      (get-to ?v ?l3)
+      (get-to ?v ?l4))
+  )
 
   (:method m-deliver
     :parameters (?p - package ?l1 - location ?l2 - location ?v - vehicle)
